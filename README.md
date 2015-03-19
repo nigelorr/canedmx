@@ -19,3 +19,7 @@ Canedmx will enable a Raspberry Pi with simple hardware to act as a scene contro
    * Operation from switches connected in a matrix to GPIO lines
    * Selectable light fixture types / library
    * User graphics on labels
+
+## See also:
+  * https://sites.google.com/site/rpidmx512/home for bare metal DMX master/slave running on Pi hardware
+  * https://wiki.openlighting.org/index.php/OLA_Raspberry_Pi for interface between canedmx and other protocols
