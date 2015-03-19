@@ -23,3 +23,4 @@ Canedmx will enable a Raspberry Pi with simple hardware to act as a scene contro
 ## See also:
   * https://sites.google.com/site/rpidmx512/home for bare metal DMX master/slave running on Pi hardware
   * https://wiki.openlighting.org/index.php/OLA_Raspberry_Pi for interface between canedmx and other protocols
+  * http://www.jonshouse.co.uk/rpidmx512.cgi inspired me to make some progress in adding useful UI to a hardware DMX solution
